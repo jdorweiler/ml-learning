@@ -1,2 +1,1 @@
-# ml-learning
-machine learning examples
+Some machine learning examples

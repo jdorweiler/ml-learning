@@ -1,2 +1,2 @@
 # ml-learning
-Running through varous machine learning examples
+machine learning examples
